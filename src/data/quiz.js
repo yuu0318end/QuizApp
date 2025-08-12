@@ -1,28 +1,33 @@
 const quizData = [
   {
-    question: "Question1",
-    options: ["Select 1", "Select 2", "Select 3", "Select 4"],
+    question: "次のうち、開発された時代が最も古いプログラミング言語はどれ？",
+    options: ["Python", "Java", "Ruby", "PHP"],
     answerIndex: 0
   },
   {
-    question: "Question2",
-    options: ["Select 1", "Select 2", "Select 3", "Select 4"],
+    question: "次のうち、任天堂が発売したゲームシリーズではないものはどれ？",
+    options: [
+      "ゼルダの伝説",
+      "メタルギア",
+      "スーパーマリオ",
+      "ポケットモンスター",
+    ],
     answerIndex: 1
   },
   {
-    question: "Question3",
-    options: ["Select 1", "Select 2", "Select 3", "Select 4"],
+    question: "次のうち、AKB48の「選抜総選挙」が初めて開催された年は？",
+    options: ["2005年", "2009年", "2012年", "2016年"],
+    answerIndex: 1
+  },
+  {
+    question: "日本の内閣総理大臣は、どの機関で正式に指名される？",
+    options: ["最高裁判所", "内閣", "衆議院と参議院", "天皇陛下"],
     answerIndex: 2
   },
   {
-    question: "Question4",
-    options: ["Select 1", "Select 2", "Select 3", "Select 4"],
+    question: "フランス革命が起こった年として正しいのはどれ？",
+    options: ["1492年", "1603年", "1917年", "1789年"],
     answerIndex: 3
-  },
-  {
-    question: "Question5",
-    options: ["Select 1", "Select 2", "Select 3", "Select 4"],
-    answerIndex: 1
   }
 ];
 
